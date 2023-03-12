@@ -1,8 +1,11 @@
 # finpros
 
 1.CNN_and_LSTM_VIC (1).ipynb
+
 2.transformers_MSN.ipynb
+
 3.RNN_PNJ (1).ipynb
+
 4.LSTM_FPT (1).ipynb
 --->4 file jpynb kể trên là 4 file dùng để nộp bài - xây dựng một số mô hình dự đoán biến động giá cổ phiếu.
 
